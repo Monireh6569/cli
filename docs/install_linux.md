@@ -1,3 +1,4 @@
+![repository-open-graph-template](https://github.com/user-attachments/assets/6666caa2-d6ee-49c6-8099-2b00de0293a0)
 # Installing gh on Linux and BSD
 
 Packages downloaded from https://cli.github.com or from https://github.com/cli/cli/releases
